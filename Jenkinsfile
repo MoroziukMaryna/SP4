@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Checkout') {
     steps {
-        git credentialsId: 'github-token', url: 'https://github.com/MoroziukMaryna/SP4.git'
+        git credentialsId: 'github-token', url: 'https://github.com/MoroziukMaryna/SP4.git', branch: 'main'
     }
 }
 
