@@ -1,0 +1,8 @@
+﻿  test.cpp
+C:\Users\Marina\source\repos\test_repos\test_repos\sort.h(37,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/test.cpp')
+  
+C:\Users\Marina\source\repos\test_repos\test_repos\stringProcessor.h(10,34): warning C4114: same type qualifier used more than once
+  (compiling source file '/test.cpp')
+  
+  test_repos.vcxproj -> C:\Users\Marina\source\repos\test_repos\x64\Debug\test_repos.exe
